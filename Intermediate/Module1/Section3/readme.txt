@@ -1,0 +1,1 @@
+Move the "py" folder to "C:/Users/Sindro86/"
